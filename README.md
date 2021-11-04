@@ -41,7 +41,7 @@ Below are screenshots of my solution:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [site URL ](https://co-dek.github.io/stats-preview/)
 
 ## My process
 
@@ -88,9 +88,9 @@ In future projects, I'd love to build my ability to use flexbox property. I woul
 
 ## Author
 
-- Website - [Add your name here](https://www.linkedin.com/in/elayenelson)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Co-dek)
-- Twitter - [@yourusername](https://www.twitter.com/@nelson_elaye)
+- Website - [Nelson Elaye](https://www.linkedin.com/in/elayenelson)
+- Frontend Mentor - [@Co-dek](https://www.frontendmentor.io/profile/Co-dek)
+- Twitter - [@nelson_elaye](https://twitter.com/nelson_elaye?t=Xed_e8eBiceMpx8KY7Sfgg&s=09)
 
 
 
