@@ -33,15 +33,15 @@ The ideal solution for the challenge should look as close to the the mobile and 
 
 Below are screenshots of my solution:
 
-![](mobile.jpg)
+![](mobile.JPG)
 
-![](desktop.jpg)
+![](desktop.JPG)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [site URL ](https://co-dek.github.io/stats-preview/)
+- Live Site URL: [View site](https://co-dek.github.io/stats-preview/)
 
 ## My process
 
