@@ -40,7 +40,7 @@ Below are screenshots of my solution:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL - Frontend Mentor](https://www.frontendmentor.io/solutions/statspreview-card-component-VZzdLx91y)
 - Live Site URL: [View site](https://co-dek.github.io/stats-preview/)
 
 ## My process
