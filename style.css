@@ -12,7 +12,8 @@ body {
   /*line-height: 1.4;*/
   background-color:hsl(233, 47%, 7%); /*very dark blue*/
   font-size: .9375rem; /*15px*/
-  font-family: "Lexend Deca", Inter;
+  font-family: "Lexend Deca", sans-serif;
+font-family: Inter, sans-serif;
   position: relative; /* This property help me positio the attribution element*/
 }
 
